@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">SabadAI — Ideas que toman forma</title><desc id="desc">Una portada en tonos índigo con formas suaves y un pequeño destello dorado.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1d0b5b"/><stop offset="1" stop-color="#42218c"/></linearGradient><linearGradient id="glow"><stop stop-color="#ff7c72"/><stop offset="1" stop-color="#ffc05a"/></linearGradient></defs>
+<rect width="1200" height="330" rx="30" fill="url(#bg)"/>
+<circle cx="1080" cy="-65" r="260" fill="#fff" opacity=".035"/><circle cx="1090" cy="350" r="200" fill="#fff" opacity=".035"/><circle cx="1005" cy="160" r="112" fill="#fff" opacity=".055"/>
+<path d="M962 102 Q1005 38 1048 102 Q1111 144 1048 188 Q1005 251 962 188 Q899 145 962 102" fill="none" stroke="#fff4de" stroke-width="5" opacity=".72"/>
+<circle cx="1005" cy="145" r="32" fill="url(#glow)"/><circle cx="1090" cy="70" r="8" fill="#ffca61"/><path d="M1130 198v30m-15-15h30" stroke="#ffca61" stroke-width="5" stroke-linecap="round"/>
+<text x="80" y="118" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="6" fill="#ffb7a3">HOLA, SOMOS</text>
+<text x="75" y="205" font-family="Arial,Helvetica,sans-serif" font-size="92" font-weight="800" letter-spacing="-3" fill="#fff8ed">Sabad<tspan fill="#ffb078">AI</tspan></text>
+<text x="81" y="257" font-family="Arial,Helvetica,sans-serif" font-size="28" fill="#e1d9fa">Ideas que toman forma.</text>
+<rect x="82" y="280" width="105" height="5" rx="2.5" fill="url(#glow)"/>
+</svg>
